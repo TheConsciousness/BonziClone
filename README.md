@@ -1,4 +1,5 @@
-Just my attempt to recreate Bonzi Buddy from images/sprites. Bonzi Buddy without the malware!
+# BonziClone
+Just my attempt at recreating the 1999 Desktop application "BonziBuddy" from images/sprites. BonziBuddy without the malware!
 
 Todo:
 - Clean up and sort the sprites further
